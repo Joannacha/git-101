@@ -1,0 +1,17 @@
+body{
+	margin: none;
+	font-family: Helvetica;
+	text-align: center;
+}
+#logo {
+	height: 200px;
+	width: 280px;
+}
+
+#container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	height: 100vh;
+}
